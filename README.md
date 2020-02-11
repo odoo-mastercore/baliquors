@@ -1,1 +1,1 @@
-# baliquors project
+# baliquors

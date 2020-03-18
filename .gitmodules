@@ -27,3 +27,8 @@
 	path = Smile-SA/odoo_addons
 	url = git@github.com:Smile-SA/odoo_addons.git
 	branch = 12.0
+
+[submodule "odoo-mastercore/baliquors_addons"]
+	path = odoo-mastercore/baliquors_addons
+	url = git@github.com:odoo-mastercore/baliquors_addons.git
+	branch = 12.0

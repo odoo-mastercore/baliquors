@@ -32,3 +32,8 @@
 	path = odoo-mastercore/baliquors_addons
 	url = git@github.com:odoo-mastercore/baliquors_addons.git
 	branch = 12.0
+
+[submodule "odoo-mastercore/bi_website_add_product"]
+	path = odoo-mastercore/bi_website_add_product
+	url = git@github.com:odoo-mastercore/bi_website_add_product.git
+	branch = 12.0

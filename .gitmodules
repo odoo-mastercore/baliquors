@@ -37,3 +37,8 @@
 	path = odoo-mastercore/bi_website_add_product
 	url = git@github.com:odoo-mastercore/bi_website_add_product.git
 	branch = 12.0
+
+[submodule "odoo-mastercore/website_sale_hide_price_qty/website_sale_hide_price_qty"]
+	path = odoo-mastercore/website_sale_hide_price_qty/website_sale_hide_price_qty
+	url = git@github.com:odoo-mastercore/website_sale_hide_price_qty.git
+	branch = 12.0

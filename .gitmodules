@@ -42,3 +42,8 @@
 	path = odoo-mastercore/website_sale_hide_price_qty/website_sale_hide_price_qty
 	url = git@github.com:odoo-mastercore/website_sale_hide_price_qty.git
 	branch = 12.0
+
+[submodule "odoo-mastercore/website_backend_auto_operation"]
+	path = odoo-mastercore/website_backend_auto_operation
+	url = git@github.com:odoo-mastercore/website_backend_auto_operation.git
+	branch = 12.0
